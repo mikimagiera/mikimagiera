@@ -8,7 +8,6 @@
 I specialize in building intelligent systems that bridge the gap between complex ML models and real-world applications.
 
 <div align="center">
----
 
 ### 🛠️ Toolbox
 
