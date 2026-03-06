@@ -1,6 +1,6 @@
-<div align="center">
-# Hi there, I'm Mikołaj! 👋 
 
+# Hi there, I'm Mikołaj! 👋 
+<div align="center">
 🎓 **MSc Artificial Intelligence** student at **TU Delft**
 
 🎓 **BSc Computer Science** graduate from **Vrije Universiteit Amsterdam**
