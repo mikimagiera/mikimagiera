@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there, I'm Mikołaj! 👋 
 
 🎓 **MSc Artificial Intelligence** student at **TU Delft**
@@ -6,6 +7,7 @@
 
 
 I specialize in building intelligent systems that bridge the gap between complex ML models and real-world applications.
+</div>
 
 <div align="center">
 
@@ -20,8 +22,9 @@ I specialize in building intelligent systems that bridge the gap between complex
 ---
 </div>
 
-### 📊 GitHub Analytics
 <div align="center">
+### 📊 GitHub Analytics
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikimagiera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   
   <br/>
