@@ -1,21 +1,12 @@
 # Hi there, I'm Mikołaj! 👋 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Mikołaj%20Magiera&fontSize=70" alt="header" />
-</div>
+🎓 **MSc Artificial Intelligence** student at **TU Delft**
 
-* **MSc Data Science & AI** @ [TU Delft](https://www.tudelft.nl/) 
-* **BSc Computer Science** @ [VU Amsterdam](https://vu.nl/)
+🎓 **BSc Computer Science** graduate from **Vrije Universiteit Amsterdam**
 
----
 
-### ⚡ Technical Focus
-I specialize in **Explainable AI (XAI)** and **Foundation Models**. My work bridges the gap between complex deep learning architectures (like Google's **Aurora**) and practical, high-performance applications.
+I specialize in building intelligent systems that bridge the gap between complex ML models and real-world applications.
 
-- 🔭 **Currently working on:** AI-assisted QA strategies and automated certification testing.
-- 🌱 **Deepening my knowledge in:** Reinforcement Learning for financial markets.
-- 💬 **Ask me about:** XAI, Attention Heatmaps, or Python automation.
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mikołaj-magiera-785261259/) | [Email](mailto:mikim869@gmail.com)
 
 ---
 
